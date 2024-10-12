@@ -91,7 +91,7 @@ fun ContohMap() {
     println(shape)
 
     // Map Read-Only
-    val shapesLocked: Map<String, Int> = shapep
+    val shapesLocked: Map<String, Int> = shape
     println(shapesLocked)
 }
 
